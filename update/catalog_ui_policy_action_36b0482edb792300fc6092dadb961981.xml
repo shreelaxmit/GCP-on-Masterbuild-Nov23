@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:62b0482edb792300fc6092dadb96193f</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 12:54:02</sys_created_on>
+        <sys_id>36b0482edb792300fc6092dadb961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackID</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_36b0482edb792300fc6092dadb961981</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 12:54:02</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Hide StackID">f2b0482edb792300fc6092dadb96197f</ui_policy>
+        <variable>StackID</variable>
+        <variable_set display_value="General Info">26b0482edb792300fc6092dadb96192c</variable_set>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

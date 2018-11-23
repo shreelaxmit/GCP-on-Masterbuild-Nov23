@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_step_translator">
+    <sn_cmp_rb_step_translator action="INSERT_OR_UPDATE">
+        <order>0</order>
+        <script display_value="Discover_Puppet_Environments">25fd671edb392300fc6092dadb9619ec</script>
+        <step display_value="Configuration Management Interface.Discover">fddd631edb392300fc6092dadb9619ae</step>
+        <sys_class_name>sn_cmp_rb_step_translator</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 11:33:03</sys_created_on>
+        <sys_id>2c3eefdadb392300fc6092dadb961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_step_translator_2c3eefdadb392300fc6092dadb961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 11:33:03</sys_updated_on>
+    </sn_cmp_rb_step_translator>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_action">
+    <sn_cmp_bp_action action="INSERT_OR_UPDATE">
+        <action_type>8</action_type>
+        <datasource/>
+        <name>SetValueByScript Virtual Server ManagementAttributes</name>
+        <order>10</order>
+        <rule display_value="SetValueByScript Virtual_Server_ManagementAttributes">6cb0842edb792300fc6092dadb9619ff</rule>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 12:53:53</sys_created_on>
+        <sys_id>64b0c42edb792300fc6092dadb961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SetValueByScript Virtual Server ManagementAttributes</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_action_64b0c42edb792300fc6092dadb961901</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 12:53:53</sys_updated_on>
+        <target_attr display_value="Virtual Server ManagementAttributes">fda0802edb792300fc6092dadb9619e8</target_attr>
+        <target_attribute>Virtual_Server_ManagementAttributes</target_attribute>
+        <target_attribute_select/>
+        <value>$(Script:CfgMgmtUtils.getManagementAttributes[arg=${parameter.WorkloadConfigProvider},arg=${parameter.WorkloadConfigProviderType}])</value>
+    </sn_cmp_bp_action>
+</record_update>

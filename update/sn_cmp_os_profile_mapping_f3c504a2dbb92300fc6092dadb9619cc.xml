@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_os_profile_mapping">
+    <sn_cmp_os_profile_mapping action="INSERT_OR_UPDATE">
+        <cloud_account display_value="Vmware">69d08c2edb792300fc6092dadb961989</cloud_account>
+        <location display_value="devcloud">fef34022dbb92300fc6092dadb96196c</location>
+        <price/>
+        <profile display_value="Linux">62b5c0a2dbb92300fc6092dadb961999</profile>
+        <sys_class_name>sn_cmp_os_profile_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 13:16:30</sys_created_on>
+        <sys_id>f3c504a2dbb92300fc6092dadb9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_os_profile_mapping_f3c504a2dbb92300fc6092dadb9619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 13:16:30</sys_updated_on>
+        <template display_value="ubuntu14">27a4cc22dbb92300fc6092dadb9619e5</template>
+    </sn_cmp_os_profile_mapping>
+</record_update>

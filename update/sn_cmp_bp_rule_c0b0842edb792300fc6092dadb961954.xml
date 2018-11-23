@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <cat_item display_value="Puppet">51a0002edb792300fc6092dadb96199e</cat_item>
+        <cat_variable display_value="Virtual Server ManagedDisk">46a0c02edb792300fc6092dadb961925</cat_variable>
+        <description>MakeMandatory Virtual_Server_StorageAccount</description>
+        <event/>
+        <name>MakeMandatory Virtual_Server_StorageAccount</name>
+        <order>430</order>
+        <source_key/>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 12:53:51</sys_created_on>
+        <sys_id>c0b0842edb792300fc6092dadb961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MakeMandatory Virtual_Server_StorageAccount</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_c0b0842edb792300fc6092dadb961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 12:53:51</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>

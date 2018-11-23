@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Puppet Enterprise Environment</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Puppet Enterprise Environment</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">33509705dbf96300fc6092dadb96195e</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 11:23:44</sys_created_on>
+        <sys_id>d41c6f5adb392300fc6092dadb96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise Environment</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sys_wizard_answer_d41c6f5adb392300fc6092dadb96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 11:23:44</sys_updated_on>
+        <table/>
+        <target_url>x_snc_puppetitomgo_u_cmdb_ci_puppet_enterprise_environment.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

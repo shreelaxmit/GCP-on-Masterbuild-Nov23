@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="tamil" language="en" table="x_snc_puppetitomgo_u_cmdb_ci_tamil">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>tamil</label>
+            <language>en</language>
+            <name>x_snc_puppetitomgo_u_cmdb_ci_tamil</name>
+            <plural>tamils</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-19 16:20:11</sys_created_on>
+            <sys_id>d4893132dbb96300fc6092dadb961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tamil</sys_name>
+            <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_puppetitomgo_u_cmdb_ci_tamil__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-19 16:20:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

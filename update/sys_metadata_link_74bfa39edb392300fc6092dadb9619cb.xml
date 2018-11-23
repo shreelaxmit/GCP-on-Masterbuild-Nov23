@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2927e316db392300fc6092dadb961986</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry">
+    <cmdb_identifier_entry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_fallback>false</allow_fallback>
+        <allow_null_attribute>false</allow_null_attribute>
+        <attributes>object_id</attributes>
+        <condition/>
+        <exact_count_match>false</exact_count_match>
+        <hybrid_entry_ci_criterion_attributes/>
+        <identifier display_value="x_snc_puppetitomgo_u_cmdb_ci_puppet_enterprise">feb5e3d2db392300fc6092dadb9619d7</identifier>
+        <order>100</order>
+        <sys_class_name>cmdb_identifier_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 11:02:23</sys_created_on>
+        <sys_id>2927e316db392300fc6092dadb961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>cmdb_identifier_entry_2927e316db392300fc6092dadb961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 11:02:23</sys_updated_on>
+        <table>x_snc_puppetitomgo_u_cmdb_ci_puppet_enterprise</table>
+    </cmdb_identifier_entry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 11:39:37</sys_created_on>
+        <sys_id>74bfa39edb392300fc6092dadb9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sys_metadata_link_74bfa39edb392300fc6092dadb9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 11:39:37</sys_updated_on>
+        <tablename>cmdb_identifier_entry</tablename>
+    </sys_metadata_link>
+</record_update>

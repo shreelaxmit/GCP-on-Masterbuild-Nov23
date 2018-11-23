@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="INSERT_OR_UPDATE">
+        <interface display_value="Puppet Resource Interface">1eeffb9adb792300fc6092dadb961904</interface>
+        <name>ScheduleProfile</name>
+        <operation display_value="ModifySchedule">2bef3f9adb792300fc6092dadb96194e</operation>
+        <order>20</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 12:50:32</sys_created_on>
+        <sys_id>e7ef3f9adb792300fc6092dadb961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScheduleProfile</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_e7ef3f9adb792300fc6092dadb961957</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 12:50:32</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_rb_op_param>
+</record_update>

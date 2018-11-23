@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Puppet Enterprise Interface">541d6f9adb392300fc6092dadb9619dd</interface>
+        <operation display_value="Discover">493d2bdadb392300fc6092dadb9619c0</operation>
+        <operation_output_attributes/>
+        <resource display_value="Puppet Enterprise">541d6f9adb392300fc6092dadb9619df</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 11:28:43</sys_created_on>
+        <sys_id>413d2bdadb392300fc6092dadb9619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>493d2bdadb392300fc6092dadb9619c0</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_413d2bdadb392300fc6092dadb9619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 11:28:43</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>

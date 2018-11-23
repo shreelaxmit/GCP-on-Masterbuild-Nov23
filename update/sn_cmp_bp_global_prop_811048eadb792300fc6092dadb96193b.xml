@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="Start">90ff3f9adb792300fc6092dadb9619f7</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="StackID">c51048eadb792300fc6092dadb96193a</bp_stage_res_op_attr>
+        <mandatory>false</mandatory>
+        <name>StackID</name>
+        <order>20</order>
+        <resource_op_unique_id>3701</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-18 12:51:11</sys_created_on>
+        <sys_id>811048eadb792300fc6092dadb96193b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackID</sys_name>
+        <sys_package display_value="puppetitomgold18nov" source="x_snc_puppetitomgo">1a512396db752300fc6092dadb961949</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="puppetitomgold18nov">1a512396db752300fc6092dadb961949</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_811048eadb792300fc6092dadb96193b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-18 12:51:11</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>
